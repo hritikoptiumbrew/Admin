@@ -123,7 +123,7 @@
         <li><a href="#"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
     </ul>
 </nav>
-<h1>helo check</h1>
+
 
 <div class="dashboard-container">
     <div class="graph-container">
