@@ -123,6 +123,13 @@
         <li><a href="#"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
     </ul>
 </nav>
+# Assuming you are on your feature branch locally
+git push origin feature-branch
+# Assuming you are on your feature branch locally
+git push origin feature-branch
+# Assuming you are on your feature branch locally
+git push origin feature-branch
+
 
 <div class="dashboard-container">
     <div class="graph-container">
